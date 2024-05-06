@@ -64,5 +64,6 @@ Resumos sobre as aulas passadas no BootCamp Santander pela **[Dio](https://web.d
 * O comando `>` ajuda a direcionar arquivos para seu destino.
 * O comando `git restore` reseta todas as configurações feitas no arquivo como se fosse um Ctrl+Z muito cuidado progressos podem ser perdidos.
 * No comando `git commit --amend` na tela de console aperte `i` para modificar texto. Para sair precione `esc` `:` `w` `q`
+* Apertando `.` (ponto), na pagina de repositorios do git hub abre uma tela de console para editar.
 
 ### **🔎Referências**
