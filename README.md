@@ -49,7 +49,8 @@ Resumos sobre as aulas passadas no BootCamp Santander pela **[Dio](https://web.d
 |`git reflog` | Historico detalhado das modificações realizadas|
 |`git restore --staged`(arquivo)| Remove arquivo especifico da area de preparação|
 |`git remote add origin`(url) | Linkar diretorio local com diretorio remoto|
-
+|`git push -u origin main` | Enviar arquivos para diretorio remoto|
+|`git pull` | Baixar alterações feita do diretorio remoto|
 
 ## 📙 **Sobre configurar o Git**
 
