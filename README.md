@@ -51,6 +51,12 @@ Resumos sobre as aulas passadas no BootCamp Santander pela **[Dio](https://web.d
 |`git remote add origin`(url) | Linkar diretorio local com diretorio remoto|
 |`git push -u origin main` | Enviar arquivos para diretorio remoto|
 |`git pull` | Baixar alterações feita do diretorio remoto|
+|`git checkout -b` (nome)| trocar da branch main para a branch dada pelo "nome"|
+|`git checkout`(nome da branch)|Seleciona a branch a  operar|
+|`git branch -v`|Listar o ultimo commit de cada branch|
+|`git merge` (nome da branch)| Mescla a branch com a branch *main*|
+|`git branch -d` (nome da branch)| Apaga branch selecionada|
+|
 
 ## 📙 **Sobre configurar o Git**
 
@@ -60,10 +66,12 @@ Resumos sobre as aulas passadas no BootCamp Santander pela **[Dio](https://web.d
     1.  Modificado (*modified*);
     2.  Preparado (*staged/index*);
     3.  Consolidado (*comitted*);
+    4.  Ramificação (*branch*);
 * O comando `touch` podemos direcionar a pasta de destino, adiconando o `\(pasta de destino)` + `(nome do arquivo.md)`
 * O comando `>` ajuda a direcionar arquivos para seu destino.
 * O comando `git restore` reseta todas as configurações feitas no arquivo como se fosse um Ctrl+Z muito cuidado progressos podem ser perdidos.
 * No comando `git commit --amend` na tela de console aperte `i` para modificar texto. Para sair precione `esc` `:` `w` `q`
 * Apertando `.` (ponto), na pagina de repositorios do git hub abre uma tela de console para editar.
+
 
 ### **🔎Referências**
