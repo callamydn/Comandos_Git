@@ -13,7 +13,8 @@ Resumos sobre as aulas passadas no BootCamp Santander pela **[Dio](https://web.d
 |**Comandos**  | **Função**       |
 |---------|--------------|
 |`ctrl+L` | Limpar tela|
-|`/(pasta ou arquivo)` *EX.: cd /"pasta local"*| Abre direto a pasta/arquivo ou direciona para o mesmo|
+|`cd /(pasta ou arquivo)` *EX.: cd /pasta local*| Abre direto a pasta/arquivo ou direciona para o mesmo|
+|`cd "(Nome da pasta)"`| Abre a pasta caso haja espaços entre os textos|
 |`mkdir`(Nome)| Criar pasta|
 |`ls` | Ver conteudo da pasta|
 |`touch`(Nome).md| Criar bloco de notas em **MD**(Markdown) linguagem de marcação simples|
