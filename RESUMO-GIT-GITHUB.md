@@ -57,7 +57,7 @@ Resumos sobre as aulas passadas no BootCamp Santander pela **[Dio](https://web.d
 |`git branch -v`|Listar o ultimo commit de cada branch|
 |`git merge` (nome da branch)| Mescla a branch com a branch *main*|
 |`git branch -d` (nome da branch)| Apaga branch selecionada|
-|
+|`git mv`(Nome origen) (Nome onde vai)| Move ou renomeia aquivos ou pastas|
 
 ## 📙 **Sobre configurar o Git**
 
