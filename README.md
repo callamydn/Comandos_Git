@@ -27,9 +27,8 @@ Resumos sobre as aulas passadas no BootCamp Santander pela **[Dio](https://web.d
 |`git remote -v`| Mostra os diretorios vinculados|
 |`git remote add`(adicionar nome ao diretorio)(url)|Linkar repositorio local com remoto|
 |`git branch`| Listar, criar ou deletar branches|
-|`git fetch`| Baixar objetos e referencias de outro repositorio|
+|`git fetch`| Baixar objetos e referencias de outro repositorio sem mesclar|
 |`git status`| Mostrar status da arvore de trabalho e tambem da area de preparação|
-|`git add`(arquivo)| Adicionar arquivo para area de preparação|
 |`git commit -m` "(nome)" | Criar commit |
 |`git log`| Mostrar registros de commits|
 |`echo` (pasta detino)/ ou  (arquivo)/| Mudança no arquivo|
@@ -37,10 +36,10 @@ Resumos sobre as aulas passadas no BootCamp Santander pela **[Dio](https://web.d
 |`>` EX.: echo pasta/ > .gitignore| Adicionar para arquivo|
 |`>` EX.: echo > .gitignore| Retirar de arquivo|
 |`.gitkeep` | Cria arquivo para definir diretorio vazio|
+|`git add`(arquivo)| Adicionar arquivo para area de preparação|
 |`git add`(nome do diretorio) | Adicionar diretorio especifico|
 |`git add .`| Adiciona todos os arquivos pendentes|
 | `rm -rf`(arquivo)| Remover arquivos|
-|`git restore`(Nome do arquivo)| Restaura modificações do arquivo desejado|
 |`git commit --amend -m"(mensagem)"`| Altera o nome do ultimo commit|
 |`git commit --amend`| Abre tela de console para alteração dos logs (ver abaixo comandos)|
 |`git reset`(arquivo)| Remove arquivo especifico da area de preparação|
@@ -48,6 +47,7 @@ Resumos sobre as aulas passadas no BootCamp Santander pela **[Dio](https://web.d
 |`git reset --mixed`(hash do commit)| Retorna os arquivos para a area de untracked files(desconhecidos)|
 |`git reset --hard`(hash do commit)| Apaga todos as modificações posteriores ao hash|
 |`git reflog` | Historico detalhado das modificações realizadas|
+|`git restore`(Nome do arquivo)| Restaura modificações do arquivo desejado|
 |`git restore --staged`(arquivo)| Remove arquivo especifico da area de preparação|
 |`git remote add origin`(url) | Linkar diretorio local com diretorio remoto|
 |`git push -u origin main` | Enviar arquivos para diretorio remoto|
