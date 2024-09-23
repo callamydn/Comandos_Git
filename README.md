@@ -1,4 +1,4 @@
-#  ***Aula sobre Git/GitHub*** | **DIO** 🎓
+#  ***Sobre Git/GitHub*** | **DIO** 🎓
 
 Resumos sobre as aulas passadas no BootCamp Santander pela **[Dio](https://web.dio.me/home)** 
 ## **Links importantes** ❗
